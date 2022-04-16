@@ -1,0 +1,21 @@
+.container {
+    width: 500px;
+    position: relative;
+}
+
+.img {
+    width: 100%;
+}
+
+.magnify {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+    border-width: 1px;
+    background-image: url('../Images/mountains-g26deb5b79_1920.jpg');
+    background-repeat: no-repeat;
+    background-size: 225px 225px;
+    right: 0%;
+    top: 0%;
+}
